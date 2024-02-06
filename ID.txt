@@ -1,0 +1,73 @@
+Ardan Radio # https://stream.rcs.revma.com/1q762wy5a9hvv
+Bahana FM # https://stream.cloudmu.id/listen/bahana_fm/stream?icy=http
+Baiturrahman FM # https://s7.alhastream.com/radio/8060/radio
+Batam FM # https://live.indostreamserver.com:9070/batamfm
+Bens Radio # https://www.bensradio.com/streaming-radio/
+Campursari FM # https://a8.siar.us/listen/campursari/stream
+Cosmopolitan FM # https://stream.radiojar.com/u7d8heq3bnzuv
+Dengerin Musik # https://onlineradiobox.com/json/id/dengerin/play?platform=web
+Elfara FM # https://onlineradiobox.com/json/id/elfara/play?platform=web
+Female Radio # https://stream.cloudmu.id/listen/female_radio/stream
+Gajahmada FM # https://server.radioimeldafm.co.id:8040/gajahmadafm
+Gen FM # https://ic.mari.co.id:8443/genfmjktx
+Geronimo FM Jogja # https://onlineradiobox.com/json/id/geronimo/play?platform=web
+Getar Cinta # https://stream.zeno.fm/wpbv42dgephvv
+Golden Memories # https://stream.zeno.fm/xg7mcgf1bf9uv
+Hardrock FM # https://stream-ssl.arenastreaming.com:8004/hardrock
+Indika FM # https://s2.radio.co/sf58a82d7d/listen
+Jagakarsa Smooth Jazz # https://stream.zeno.fm/u8fk7pgds8quv
+Jak 101 FM # https://ic.mari.co.id:8443/jakfmx
+Jakarta Classic Radio # https://stream.zeno.fm/gx0pazemknzuv
+Jakarta Rock Radio # https://stream.zeno.fm/cy0zetda9e9uv
+Jedag Jedug Online # https://stream.zeno.fm/rudtpbce6ehvv
+Kharisma FM # https://onlineradiobox.com/json/id/kharisma/play?platform=web
+KIS FM # https://ic.mari.co.id:8443/kisfmx
+KIS Rock FM # https://stream.zeno.fm/2nbxgbynb18uv
+Media FM # https://onlineradiobox.com/json/id/media901/play?platform=web
+Megaswara Bogor # https://onlineradiobox.com/json/id/megaswarabogor/play?platform=web
+Menara FM Bali # https://c1.siar.us:10280/menarafmbali
+Merdeka FM # https://onlineradiobox.com/json/id/merdeka1067/play?platform=web
+Mettaswara Dangdut # https://mettaswara.com:8700/d4d
+MGT FM # https://s1.gntr.net/listen/mgtradio/mgtradio
+Most Radio # https://ic.mari.co.id:8443/mostfmx
+Motion Radio Jakarta # https://cast1.my-control-panel.com/proxy/radioso2/stream
+MTA FM # https://onlineradiobox.com/json/id/mtafm/play?platform=web
+MTV Indonesia # https://stream.zeno.fm/pvvz3mrtsf9uv
+Mustang FM # https://ic.mari.co.id:8443/mustangfmx
+Nagaswararadio Bogor # https://live.nagaswarafm.com/nagaswararadio/stream
+Net Radio # https://streaming.classynetradio.com/radio/8000/classySD
+OZ Radio Bandung # https://streaming.ozradiojakarta.com:8443/ozradiobandung
+Paramuda FM # https://onlineradiobox.com/json/id/paramuda/play?platform=web
+Pinguin Radio Bali # https://live.radiopinguinfm.com:8350/;stream.mp3
+Radio Bintang Tenggara # https://stream.zeno.fm/4wtwzavvfzzuv
+Radio Dangdut Indonesia # https://onlineradiobox.com/json/id/dangdutindonesia/play?platform=web
+Radio Elshinta # https://stream-ssl.arenastreaming.com:8000/jakarta
+Radio Galuh # https://stream.yaomi.space/galuhfm
+Radio Idola Semarang # https://stream.radioidola.com/listen/idolafm/liveRadio Kajian Islam # https://stream.zeno.fm/ge2ekgd7f18uv
+Radio Mendhut FM # https://onlineradiobox.com/json/id/mendhut/play?platform=web
+Radio Musik Indonesia # https://shorturl.at/JNZ28
+Radio Nusantara # https://s.rajamediautama.my.id/radio/8090/nusantara
+Radio Rodja Bogor # https://radioislamindonesia.com/rodja.mp3
+Radio SJFM Juwana # https://onlineradiobox.com/json/id/swarajuwana/play?platform=web
+Radio Suara Salatiga # https://icecast.salatiga.go.id:8443/stream.ogg
+Radio Swara Koncotani # https://onlineradiobox.com/json/id/swarakoncotani/play?platform=web
+Radio Swara Semarang # https://server.radioimeldafm.co.id/radio/8010/swarasemarang
+Radio Syiar Tauhid Depok # https://live2.syiartauhid.info:8121/;rojer.mp3
+Rama FM Bandung # https://onlineradiobox.com/json/id/ramabandung/play?platform=web
+Retjo Buntung FM Jogja # https://ssg.streamingmurah.com:9940/stream
+RRI Channel 5 # https://cdnch5.rri.co.id/web-chlima.mp3
+RRI Pro 1 Jakarta # https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+RRI Pro 3 # https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+Rock FM # https://stream.zeno.fm/xzv5v3011s8uv
+Slow Radio # https://stream.zeno.fm/dpk2zq5np2zuv
+Smooth FM Jakarta # https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+Sonora FM Jakarta # https://cast1.my-control-panel.com/proxy/radioso1/live
+Sudarmanto Radio # https://onlineradiobox.com/json/id/sudarmanto/play?platform=web
+Suzana FM Radio # https://onlineradiobox.com/json/id/suzana913/play?platform=web
+Swaragama FM Jogja # https://onlineradiobox.com/json/id/swaragama/play?platform=web
+Trax FM # https://stream.radiojar.com/rrqf78p3bnzuv
+Trijaya FM Jakarta # https://r.sindonews.tv/trijayafm/;stream.nsv
+Urban Radio Bandung # https://live1.indostreamserver.com/8250/stream
+UTY FM # https://onlineradiobox.com/json/id/utyfmmedari/play?platform=web
+Wijaya FM # https://onlineradiobox.com/json/id/wijaya/play?platform=web
+Z 99 FM Jakarta # https://svara-stream.radioddns.net:8443/jakarta_z999fm_aac
